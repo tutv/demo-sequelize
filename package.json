@@ -1,0 +1,20 @@
+{
+  "name": "demo-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutv/demo-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutv/demo-sequelize/issues"
+  },
+  "homepage": "https://github.com/tutv/demo-sequelize#readme"
+}
